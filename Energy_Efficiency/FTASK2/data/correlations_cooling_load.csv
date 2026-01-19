@@ -1,0 +1,6 @@
+"Variable","Correlation","Abs_Correlation","Strength"
+"Heating Load",0.975,0.975,"Strong"
+"Roof Area",-0.862,0.862,"Strong"
+"Surface Area",-0.672,0.672,"Moderate"
+"Relative Compactness",0.633,0.633,"Moderate"
+"Wall Area",0.425,0.425,"Moderate"

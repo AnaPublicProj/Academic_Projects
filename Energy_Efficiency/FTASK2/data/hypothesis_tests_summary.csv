@@ -1,0 +1,8 @@
+"Test_Number","Test_Type","Hypothesis","P_Value","Significant","Decision"
+1,"Two-Sample T-Test","Height affects Heating Load","2.645e-260",TRUE,"Reject H0"
+2,"Two-Sample T-Test","Height affects Cooling Load","1.161e-270",TRUE,"Reject H0"
+3,"One-Way ANOVA","Orientation affects Heating Load"," 9.986e-01",FALSE,"Fail to Reject"
+4,"One-Way ANOVA","Glazing Area affects Heating Load"," 4.832e-14",TRUE,"Reject H0"
+5,"Two-Way ANOVA","Height × Glazing interaction on Heating"," 6.399e-09",TRUE,"Reject H0"
+6,"Paired T-Test","Heating ≠ Cooling Load","2.102e-118",TRUE,"Reject H0"
+7,"Chi-Square Test","Height and Glazing are independent"," 1.000e+00",FALSE,"Fail to Reject"
